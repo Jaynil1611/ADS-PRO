@@ -23,6 +23,7 @@
 
 ## 👤 **Jaynil Gaglani**
 
+- Portfolio: [jaynil.gaglani](https://bit.ly/jaynil-profile)
 - Linkedin: [Jaynil Gaglani](https://www.linkedin.com/in/jaynilgaglani/)
 - Github: [@Jaynil1611](https://github.com/Jaynil1611)
 
