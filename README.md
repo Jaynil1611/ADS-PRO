@@ -15,7 +15,8 @@
 - Java AWT
 - Java Swing
 
-## Start Application
+## Run Application
+- Clone the repository
 - Compile all the java classes in the repository
 - Run the test.java after comiling all classes
 - Load the files Sword and Maze to view predefined mazes. 
