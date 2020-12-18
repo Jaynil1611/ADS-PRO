@@ -18,6 +18,7 @@
 ## Start Application
 - Compile all the java classes in the repository
 - Run the test.java after comiling all classes
+- Load the files Sword and Maze to view predefined mazes. 
 
 ## 👤 **Jaynil Gaglani**
 
